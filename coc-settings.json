@@ -1,0 +1,20 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/docker/compose/master/compose/config/config_schema_v1.json": "**/docker-compose*.yml"
+    },
+    "go.checkForUpdates": "ask",
+    "diagnostic.checkCurrentLine": true,
+    "java.completion.guessMethodArguments": true,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "json",
+        "js",
+        "java",
+        "javascript",
+        "html",
+        "rust",
+        "lua",
+        "go",
+        "markdown",
+        "py"
+    ]
+}
